@@ -12,3 +12,5 @@ for i in range(len(list)):
     if list[i] == find_num:
         count += 1
 print(f'Число {find_num} встречается в списке {count} раз(а)')
+
+
